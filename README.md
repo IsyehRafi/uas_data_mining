@@ -159,6 +159,6 @@ knn.fit(X_train, Y_train)
 ## **Deployment**
 
 Model ini dideploy menggunakan **Streamlit**. Anda dapat mengakses aplikasi prediksi interaktif melalui tautan berikut:  
-[Link Aplikasi Streamlit](https://streamlit.io)
+[Link Aplikasi Streamlit](https://uasdatamining-qwu5qrjgfwfxsauce9smfx.streamlit.app/)
 
 ---
